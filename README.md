@@ -5,7 +5,7 @@ A Python and Streamlit web app that analyses social media posts. It cleans the d
 > **Data Analysis Essentials – Cornerstone Project** · Department of Artificial Intelligence & Machine Learning
 
 🌐 **Live app:** https://social-media-analysis-tharun.streamlit.app/
-💻 **Repository:** https://github.com/tharunrudrakshula55-colla/social-media-data-analysis
+
 
 ---
 
@@ -21,8 +21,7 @@ A Python and Streamlit web app that analyses social media posts. It cleans the d
 8. [Installation and Run Locally](#installation-and-run-locally)
 9. [Dashboard Modules](#dashboard-modules)
 10. [Deployment](#deployment)
-11. [Future Scope](#future-scope)
-12. [Team](#team)
+
 
 ---
 
@@ -172,25 +171,3 @@ The app is deployed on **Streamlit Community Cloud** straight from this GitHub r
 2. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub.
 3. Click **New app**, select the repository, set the main file to `dashboard.py` and deploy.
 
-## Future Scope
-
-- Larger and more varied social media datasets
-- Advanced NLP/ML-based sentiment models
-- Real-time social media data analysis
-- More interactive analytics and visualisations
-
-## Team
-
-| Name | Roll No. |
-|------|----------|
-| Satti Naga Venkata Sashank Reddy | 25B11AIA75 |
-| Dudekula Shamir | 25B11AI277 |
-| Rudrakshula Tharun | 25B11AIA42 |
-| Bandaru Tharun Kumar | 25B11AI093 |
-
-**Guide:** Seelam Nagendra
-**Department:** Artificial Intelligence & Machine Learning
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
